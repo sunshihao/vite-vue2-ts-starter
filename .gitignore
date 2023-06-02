@@ -5,7 +5,7 @@ dist.zip
 dist-ssr
 package-lock.json
 pnpm-lock.yaml
-
+yarn*
 # local env files
 *.local
 

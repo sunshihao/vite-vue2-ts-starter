@@ -30,6 +30,7 @@
     ]
   },
   "dependencies": {
+    "element-ui": "^2.15.13",
     "pinia": "^2.0.34",
     "vue": "^2.7.14",
     "vue-router": "^3.6.5"
