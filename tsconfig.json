@@ -14,9 +14,9 @@
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["vite/client", "node"],
-    "typeRoots": ["./node_modules/@types/"],
-    "baseUrl": ".",
+    // "types": ["vite/client", "node"],
+    // "typeRoots": ["./node_modules/@types/"],
+    "baseUrl": "./",
     "paths": {
       "/@/*": ["src/*"]
     },
@@ -26,5 +26,5 @@
     "target": 2.7
   },
   "include": ["./src"],
-  "exclude": ["node_modules", "*.js"]
+  "exclude": ["node_modules", "*.js", "dist"]
 }
