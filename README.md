@@ -2,6 +2,8 @@
 
 This template will help you start developing in Vite using Vue2.7+ VueRouter Pinia TypeScript WindiCSS.
 
+fork form zhixiangyao/vite-vue2-ts-starter
+
 **Editor:**
 
 - [VS Code](https://code.visualstudio.com/)
